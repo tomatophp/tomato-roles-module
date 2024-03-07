@@ -1,5 +1,5 @@
 {
-    "name": "tomatophp/tomato-roles",
+    "name": "tomatophp/tomato-roles-module",
     "type": "library",
     "description": "ACL Roles / Permissions for Tomato Admin build for Splade",
     "keywords": [
