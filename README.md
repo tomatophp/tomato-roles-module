@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/tomatophp/tomato-roles/blob/master/art/screenshot.png)
+![Screenshot](https://github.com/tomatophp/tomato-roles-modules/blob/master/art/screenshot.png)
 
 # Tomato Roles
 
